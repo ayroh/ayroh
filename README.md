@@ -15,7 +15,10 @@ Featured Works
 
 &emsp;&emsp;[Binary Search, Red-Black, 2-3, B Trees and Skip-list Implementation | Java](https://github.com/ayroh/Java/tree/main/Homework%207)
 
+&emsp;&emsp;[Longest Increasing Order Sequence | Assembly](https://github.com/ayroh/Computer-Organization/tree/main/Assembly)
 
+&emsp;&emsp;[32 bit ALU with Multiplication | Verilog](https://github.com/ayroh/Computer-Organization/tree/main/ALU)
 
+&emsp;&emsp;[MIPS Processor | Verilog](https://github.com/ayroh/Computer-Organization/tree/main/MIPS)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ayroh&layout=compact)
