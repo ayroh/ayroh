@@ -21,4 +21,4 @@ Featured Works
 
 &emsp;&emsp;[MIPS Processor | Verilog](https://github.com/ayroh/Computer-Organization/tree/main/MIPS)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ayroh&layout=compact)
+
