@@ -6,3 +6,6 @@ Featured Works
 &emsp;&emsp;[All Possible Orientations of L Shaped Pipes at 8x8 Field | C](https://github.com/ayroh/C/tree/main/Homework%208)
 
 &emsp;&emsp;[Geometric Art Using Hankin's Method | Encapsulated PostScript | C](https://github.com/ayroh/C/tree/main/Term%20Project)
+
+&emsp;&emsp;[HEX Board Game | C++](https://github.com/ayroh/Cpp/tree/main/Homework%201)
+
