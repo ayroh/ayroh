@@ -32,4 +32,4 @@ Featured Works
 
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ayroh)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ayroh&langs_count=9)
