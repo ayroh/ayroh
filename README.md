@@ -6,6 +6,9 @@
 ![linkedin_socialnetwork_17441](https://user-images.githubusercontent.com/76924597/154782386-eb759090-af59-44c9-990c-e23ad3129eac.png)
 [LinkedIn](https://www.linkedin.com/in/bilal-yal%C3%A7%C4%B1nkaya-73623a194)
 
+![microsoft_office_outlook_logo_icon_145721](https://user-images.githubusercontent.com/76924597/154799115-42682fa7-d11c-4a8c-a873-93168d021cad.png)
+bilal.y.k@hotmail.com
+
 Featured Works
 
 &emsp;&emsp;[Top-Down Shooter Mobile Game | Unity | C#](https://github.com/ayroh/Shooter-Impact-Mobile-Game)
