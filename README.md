@@ -21,4 +21,6 @@ Featured Works
 
 &emsp;&emsp;[MIPS Processor | Verilog](https://github.com/ayroh/Computer-Organization/tree/main/MIPS)
 
+&emsp;&emsp;[Top-Down Shooter Mobile Game | Unity | C#](https://github.com/ayroh/Shooter-Impact-Mobile-Game)
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ayroh)
