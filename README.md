@@ -18,6 +18,8 @@ Featured Works
 
 &emsp;&emsp;[MIPS Processor | Verilog](https://github.com/ayroh/Computer-Organization/tree/main/MIPS)
 
+&emsp;&emsp;[G++ Parser | Yacc&Lisp](https://github.com/ayroh/Programming-Languages/tree/main/Parser)
+
 &emsp;&emsp;[32 bit ALU with Multiplication | Verilog](https://github.com/ayroh/Computer-Organization/tree/main/ALU)
 
 &emsp;&emsp;[Longest Increasing Order Sequence | Assembly](https://github.com/ayroh/Computer-Organization/tree/main/Assembly)
