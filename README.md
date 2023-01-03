@@ -12,10 +12,24 @@ bilal.y.k@hotmail.com
 
 # Featured Works
 
+&emsp;&emsp;[Multiplayer RTS Game](https://github.com/ayroh/Multiplayer-RTS-Game)
+
+    Multiplayer RTS Casual Mobile Game With PUN 2
+    
+&emsp;&emsp;[Word Scrapper Puzzle Game](https://github.com/ayroh/Word-Scrapper)
+
+    Words Scrapper - Word Puzzle Mobile Game
+    
+&emsp;&emsp;[Rubiks Tiles - Rhythm Game](https://github.com/ayroh/Rubiks-Tiles-Rhythm-Game)
+
+    Rhythm Game that Player Completes Rubiks Cube with Rhythm
 
 &emsp;&emsp;[Top-Down Mobile Shooter Game | Unity | C#](https://github.com/ayroh/Shooter-Impact-Mobile-Game)
 
     Top-Down Mobile Shooter Game as a School Project using Unity Engine
+    
+
+# Homeworks
 
 &emsp;&emsp;[Geometric Art Using Hankin's Method | Encapsulated PostScript | C](https://github.com/ayroh/C/tree/main/Term%20Project)
 
