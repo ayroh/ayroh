@@ -18,7 +18,7 @@ bilal.y.k@hotmail.com
     
 &emsp;&emsp;[Word Scrapper Puzzle Game](https://github.com/ayroh/Word-Scrapper)
 
-    Words Scrapper - Word Puzzle Mobile Game
+    WordScrapper - Word Puzzle Mobile Game
     
 &emsp;&emsp;[Rubiks Tiles - Rhythm Game](https://github.com/ayroh/Rubiks-Tiles-Rhythm-Game)
 
