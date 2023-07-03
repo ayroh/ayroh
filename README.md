@@ -9,7 +9,7 @@
 ![microsoft_office_outlook_logo_icon_145721](https://user-images.githubusercontent.com/76924597/154799115-42682fa7-d11c-4a8c-a873-93168d021cad.png)
 bilal.y.k@hotmail.com
 
-[Bilal_CV.pdf](https://github.com/ayroh/ayroh/files/11938597/Bilal_CV.pdf)
+CV: [Bilal_CV.pdf](https://github.com/ayroh/ayroh/files/11938597/Bilal_CV.pdf)
 
 
 # Featured Works
