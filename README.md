@@ -30,6 +30,9 @@ CV: [Bilal_CV.pdf](https://github.com/ayroh/ayroh/files/11938597/Bilal_CV.pdf)
 
     Top-Down Mobile Shooter Game as a School Project using Unity Engine
     
+&emsp;&emsp;[HLSL Shaders](https://github.com/ayroh/My-Shaders)
+
+    HLSL Shaders from my Shader practices
 
 # Homeworks
 
