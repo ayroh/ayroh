@@ -31,6 +31,13 @@ bilal.y.k@hotmail.com
 &emsp;&emsp;[HLSL Shaders](https://github.com/ayroh/My-Shaders)
 
     HLSL Shaders from my Shader practices
+    
+# Game Clones:
+&emsp;&emsp;[Geometry Dash](https://github.com/ayroh/Geometry-Dash-Clone)
+<br /><br />&emsp;&emsp;[Ball Maze](https://github.com/ayroh/Ball-Maze-Clone)
+<br /><br />&emsp;&emsp;[Sumo.io](https://github.com/ayroh/Sumo.io-Clone)
+<br /><br />&emsp;&emsp;[2048](https://github.com/ayroh/2048-Clone)
+
 
 
 # Homeworks
@@ -80,4 +87,3 @@ bilal.y.k@hotmail.com
     Implementation of Binary Search, Red-Black, 2-3, B Trees and Skip-list in Java
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ayroh&langs_count=9)
