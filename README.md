@@ -32,7 +32,7 @@ bilal.y.k@hotmail.com
 
     HLSL Shaders from my Shader practices
     
-# Game Clones:
+# Game Clones
 &emsp;&emsp;[Geometry Dash](https://github.com/ayroh/Geometry-Dash-Clone)
 <br /><br />&emsp;&emsp;[Ball Maze](https://github.com/ayroh/Ball-Maze-Clone)
 <br /><br />&emsp;&emsp;[Sumo.io](https://github.com/ayroh/Sumo.io-Clone)
