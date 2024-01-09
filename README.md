@@ -9,22 +9,45 @@
 ![microsoft_office_outlook_logo_icon_145721](https://user-images.githubusercontent.com/76924597/154799115-42682fa7-d11c-4a8c-a873-93168d021cad.png)
 bilal.y.k@hotmail.com
 
+<br /><br />
 
 # Featured Works
 
-&emsp;&emsp;[Multiplayer RTS Game](https://github.com/ayroh/Multiplayer-RTS-Game)
 
-<img src="https://github.com/ayroh/ayroh/assets/76924597/f513fde2-1fd5-452f-aec7-34c44c082904" width="200">
-<img src="https://github.com/ayroh/ayroh/assets/76924597/90f4ab96-ca53-4966-9800-1a4a4c5f7717" width="200">
-<img src="https://github.com/ayroh/ayroh/assets/76924597/0428ad84-18c8-4735-9a3d-0160ab97f14f" width="200">
-<img src="https://github.com/ayroh/ayroh/assets/76924597/29e55f3e-cab1-400e-aafc-36cb05136790" width="200">
+&emsp;&emsp;[Word Scrapper](https://github.com/ayroh/Word-Scrapper)
+
+    Word Scrapper - Word Puzzle Game
+
+<img src="https://github.com/ayroh/ayroh/assets/76924597/4333f0a5-29bd-4b56-8cfd-2fe38217686c" width="200">
+<img src="https://github.com/ayroh/ayroh/assets/76924597/cbd0e6b1-f418-4416-9260-e4e7ecace5d9" width="200">
+<img src="https://github.com/ayroh/ayroh/assets/76924597/35e8aac7-7d98-4718-a2a5-08ef283f1726" width="200">
+<img src="https://github.com/ayroh/ayroh/assets/76924597/7da4be4e-f8e0-4d39-a75c-eccfaf6f798e" width="200">
 
 
-    Multiplayer RTS Casual Mobile Game With PUN 2
+<br /><br />
+
+&emsp;&emsp;[Blue Blast](https://github.com/ayroh/Word-Scrapper)
+
+    Blue Blast - Match 2 Puzzle Game
     
-&emsp;&emsp;[Word Scrapper Puzzle Game](https://github.com/ayroh/Word-Scrapper)
+<img src="https://github.com/ayroh/ayroh/assets/76924597/ae2a2809-9400-48bf-976a-3866033d0cd5" width="200">
+<img src="https://github.com/ayroh/ayroh/assets/76924597/58a9ef69-6f2a-45d2-9e4d-133be4e8ec55" width="200">
+<img src="https://github.com/ayroh/ayroh/assets/76924597/9e8e7bd3-9e99-470e-8bbf-22096f668ca1" width="200">
+<img src="https://github.com/ayroh/ayroh/assets/76924597/ebd8aa44-bb23-4f6b-9447-710ce76b6ff1" width="200">
 
-    WordScrapper - Word Puzzle Mobile Game
+<br /><br />
+
+&emsp;&emsp;[Fortrex: Color Duels](https://github.com/ayroh/Multiplayer-RTS-Game)
+
+    Fortrex: Color Duels - Multiplayer RTS Casual Multiplayer Game
+    
+<img src="https://github.com/ayroh/ayroh/assets/76924597/90f4ab96-ca53-4966-9800-1a4a4c5f7717" width="200">
+<img src="https://github.com/ayroh/ayroh/assets/76924597/ae9d7aa7-bec7-410f-b01d-c468230a1dba" width="200">
+<img src="https://github.com/ayroh/ayroh/assets/76924597/29e55f3e-cab1-400e-aafc-36cb05136790" width="200">
+<img src="https://github.com/ayroh/ayroh/assets/76924597/f513fde2-1fd5-452f-aec7-34c44c082904" width="200">
+
+<br /><br />
+
     
 &emsp;&emsp;[Rubiks Tiles - Rhythm Game](https://github.com/ayroh/Rubiks-Tiles-Rhythm-Game)
 
