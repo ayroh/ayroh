@@ -9,7 +9,7 @@
 ![microsoft_office_outlook_logo_icon_145721](https://user-images.githubusercontent.com/76924597/154799115-42682fa7-d11c-4a8c-a873-93168d021cad.png)
 bilal.y.k@hotmail.com
 
- Download APKs: [Google Drive](https://drive.google.com/drive/folders/1gt929S-dGiFW6MBxv4m8KOZ0hI-i3WJT?usp=drive_link)
+Download APKs: [Google Drive](https://drive.google.com/drive/folders/1gt929S-dGiFW6MBxv4m8KOZ0hI-i3WJT?usp=drive_link)
 
 
 <br /><br />
