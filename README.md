@@ -20,6 +20,9 @@ Download APKs: [Google Drive](https://drive.google.com/drive/folders/1gt929S-dGi
 &emsp;&emsp;[Word Scrapper](https://github.com/ayroh/Word-Scrapper)
 
     Word Scrapper - Word Puzzle Game
+    DoTween - Fall Operations
+    Pooling - Tiles, Particles
+    Animation & SFX
 
 <img src="https://github.com/ayroh/ayroh/assets/76924597/4333f0a5-29bd-4b56-8cfd-2fe38217686c" width="200">
 <img src="https://github.com/ayroh/ayroh/assets/76924597/cbd0e6b1-f418-4416-9260-e4e7ecace5d9" width="200">
@@ -35,6 +38,10 @@ Download APKs: [Google Drive](https://drive.google.com/drive/folders/1gt929S-dGi
     Unity Ads Initialized
     Unity Editor - Level Editing
     UniTask - Async Fall Operations
+    Pooling - Tiles and Particles
+    Level Reading from Json
+    Full Sprite Tiles
+    Animation & SFX
 
 <img src="https://github.com/ayroh/ayroh/assets/76924597/a48aeb52-d940-43eb-bdd0-e863fc77bd5e" width="200">
 <img src="https://github.com/ayroh/ayroh/assets/76924597/7c3b15cb-5e4c-441e-87dd-310296308385" width="200">
@@ -45,7 +52,12 @@ Download APKs: [Google Drive](https://drive.google.com/drive/folders/1gt929S-dGi
 
 &emsp;&emsp;[Fortrex: Color Duels](https://github.com/ayroh/Multiplayer-RTS-Game)
 
-    Fortrex: Color Duels - Multiplayer RTS Casual Multiplayer Game
+    Fortrex: Color Duels - Casual RTS Game
+    Multiplayer with PUN 2
+    Throwable Card System
+    Pooling - Minions
+    
+    
     
 <img src="https://github.com/ayroh/ayroh/assets/76924597/90f4ab96-ca53-4966-9800-1a4a4c5f7717" width="200">
 <img src="https://github.com/ayroh/ayroh/assets/76924597/ae9d7aa7-bec7-410f-b01d-c468230a1dba" width="200">
