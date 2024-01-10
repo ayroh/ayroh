@@ -26,7 +26,7 @@ bilal.y.k@hotmail.com
 
 <br /><br />
 
-&emsp;&emsp;[Blue Blast](https://github.com/ayroh/Word-Scrapper)
+&emsp;&emsp;[Blue Blast](https://github.com/ayroh/BlueBlast)
 
     Blue Blast - Match 2 Puzzle Game
     
