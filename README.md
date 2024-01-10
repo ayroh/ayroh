@@ -32,11 +32,12 @@ Download APKs: [Google Drive](https://drive.google.com/drive/folders/1gt929S-dGi
 &emsp;&emsp;[Blue Blast](https://github.com/ayroh/BlueBlast)
 
     Blue Blast - Match 2 Puzzle Game
-    
-<img src="https://github.com/ayroh/ayroh/assets/76924597/ae2a2809-9400-48bf-976a-3866033d0cd5" width="200">
-<img src="https://github.com/ayroh/ayroh/assets/76924597/58a9ef69-6f2a-45d2-9e4d-133be4e8ec55" width="200">
-<img src="https://github.com/ayroh/ayroh/assets/76924597/9e8e7bd3-9e99-470e-8bbf-22096f668ca1" width="200">
-<img src="https://github.com/ayroh/ayroh/assets/76924597/ebd8aa44-bb23-4f6b-9447-710ce76b6ff1" width="200">
+    Unity Ads Initialized
+
+<img src="https://github.com/ayroh/ayroh/assets/76924597/a48aeb52-d940-43eb-bdd0-e863fc77bd5e" width="200">
+<img src="https://github.com/ayroh/ayroh/assets/76924597/7c3b15cb-5e4c-441e-87dd-310296308385" width="200">
+<img src="https://github.com/ayroh/ayroh/assets/76924597/b9504fb9-8398-4d08-b2d7-bfa947d7de72" width="200">
+<img src="https://github.com/ayroh/ayroh/assets/76924597/040312c2-ca35-4ca7-a4ff-77c5935ff2c2" width="200">
 
 <br /><br />
 
