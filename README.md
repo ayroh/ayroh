@@ -21,7 +21,7 @@ Download APKs: [Google Drive](https://drive.google.com/drive/folders/1gt929S-dGi
 
     Word Scrapper - Word Puzzle Game
     Firebase - Word and Description Database
-    DoTween - Fall Operations
+    DoTween - Fall Operations & Animations
     Pooling - Tiles, Particles
     Animation & SFX
 
