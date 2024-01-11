@@ -55,6 +55,7 @@ Download APKs: [Google Drive](https://drive.google.com/drive/folders/1gt929S-dGi
 
     Fortrex: Color Duels - Casual RTS Game
     Multiplayer with PUN 2
+    12 Different Skills
     Throwable Card System
     Pooling - Minions
     
