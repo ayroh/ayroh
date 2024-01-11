@@ -20,6 +20,7 @@ Download APKs: [Google Drive](https://drive.google.com/drive/folders/1gt929S-dGi
 &emsp;&emsp;[Word Scrapper](https://github.com/ayroh/Word-Scrapper)
 
     Word Scrapper - Word Puzzle Game
+    Firebase - Word and Description database
     DoTween - Fall Operations
     Pooling - Tiles, Particles
     Animation & SFX
