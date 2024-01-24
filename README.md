@@ -11,13 +11,14 @@ bilal.y.k@hotmail.com
 
 Download APKs: [Google Drive](https://drive.google.com/drive/folders/1gt929S-dGiFW6MBxv4m8KOZ0hI-i3WJT?usp=drive_link)
 
+Word Scrapper and Blue Blast: [Google Play](https://play.google.com/store/apps/dev?id=7664377097964883174)
 
 <br /><br />
 
 # Featured Works
 
 
-&emsp;&emsp;[Word Scrapper](https://github.com/ayroh/Word-Scrapper)
+&emsp;&emsp;[Word Scrapper](https://github.com/ayroh/Word-Scrapper) - [Google Play](https://play.google.com/store/apps/details?id=com.MoteInTheEye.WordScrapper)
 
     Word Scrapper - Word Puzzle Game
     Firebase - Word and Description Database
@@ -33,7 +34,7 @@ Download APKs: [Google Drive](https://drive.google.com/drive/folders/1gt929S-dGi
 
 <br /><br />
 
-&emsp;&emsp;[Blue Blast](https://github.com/ayroh/BlueBlast)
+&emsp;&emsp;[Blue Blast](https://github.com/ayroh/BlueBlast) - [Google Play](https://play.google.com/store/apps/details?id=com.AyrohGames.BlueBlast)
 
     Blue Blast - Match 2 Puzzle Game
     Unity Ads Initialized
