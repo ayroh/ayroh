@@ -26,6 +26,7 @@ Word Scrapper and Blue Blast: [Google Play](https://play.google.com/store/apps/d
       Visitor Algorithm       +<br>
       Camera Movement         +<br>
       Exhibition Algorithm    +<br>
+      Exhibition Cost Math    +<br>
       Exhibition Upgrade Menu +<br>
       Next: 3D Models
     </td>
