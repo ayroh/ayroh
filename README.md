@@ -21,7 +21,7 @@ Word Scrapper and Blue Blast: [Google Play](https://play.google.com/store/apps/d
   <tr>
     <td><img src="https://github.com/user-attachments/assets/a43965e6-bad6-4757-963c-c15df7783ef7" width="300"></td>
     <td style="border: none; text-align: right;">
-      <strong>Idle Tycoon Game </strong> <br><br>
+      <a href="https://github.com/ayroh/Tycoon">Idle Tycoon Game</a><br><br>
       Guide Algorithm         +<br>
       Visitor Algorithm       +<br>
       Camera Movement         +<br>
@@ -33,7 +33,7 @@ Word Scrapper and Blue Blast: [Google Play](https://play.google.com/store/apps/d
   <tr>
     <td><img src="https://github.com/user-attachments/assets/233407bf-f6f0-45cd-9aac-dc40ae862fb3" width="300"></td>
     <td style="border: none; text-align: right;">
-      <strong>German Vocabulary Game </strong> <br><br>
+      <a href="https://github.com/ayroh/German-Vocabulary">German Vocabulary Game</a><br><br>
       Adding New Words         +<br>
       Puzzle Algorithm         +<br>
       Swipe Gestures           +<br>
@@ -44,7 +44,7 @@ Word Scrapper and Blue Blast: [Google Play](https://play.google.com/store/apps/d
 <br /><br />
 # Mind Drawer Works
 
-Youtube:
+Full Video:
 
 [![YouTube](http://i.ytimg.com/vi/WyByATQEe18/hqdefault.jpg)](https://www.youtube.com/watch?v=WyByATQEe18)
 <br /><br />
