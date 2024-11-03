@@ -15,6 +15,39 @@ Word Scrapper and Blue Blast: [Google Play](https://play.google.com/store/apps/d
 
 <br /><br />
 
+# Current Projects
+
+<table style="border: none;">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a43965e6-bad6-4757-963c-c15df7783ef7" width="300"></td>
+    <td style="border: none; text-align: right;">
+      <strong>Idle Tycoon Game </strong> <br><br>
+      Guide Algorithm         +<br>
+      Visitor Algorithm       +<br>
+      Camera Movement         +<br>
+      Exhibition Algorithm    +<br>
+      Exhibition Upgrade Menu +<br>
+      Next: 3D Models
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/233407bf-f6f0-45cd-9aac-dc40ae862fb3" width="300"></td>
+    <td style="border: none; text-align: right;">
+      <strong>German Vocabulary Game </strong> <br><br>
+      Adding New Words         +<br>
+      Puzzle Algorithm         +<br>
+      Swipe Gestures           +<br>
+    </td>
+  </tr>
+</table>
+
+<br /><br />
+# Mind Drawer Works
+
+Youtube:
+
+[![YouTube](http://i.ytimg.com/vi/WyByATQEe18/hqdefault.jpg)](https://www.youtube.com/watch?v=WyByATQEe18)
+<br /><br />
 # Featured Works
 
 
