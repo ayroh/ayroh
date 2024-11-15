@@ -45,9 +45,9 @@ Word Scrapper and Blue Blast: [Google Play](https://play.google.com/store/apps/d
 <br /><br />
 # Mind Drawer Works
 
-Full Video:
+Full Video: [Youtube Link](https://www.youtube.com/watch?v=WyByATQEe18)
 
-[![YouTube](http://i.ytimg.com/vi/WyByATQEe18/hqdefault.jpg)](https://www.youtube.com/watch?v=WyByATQEe18)
+[![YouTube](https://github.com/user-attachments/assets/7f9e597f-06ba-4dd7-83b1-d7d782e22fa2)](https://www.youtube.com/watch?v=WyByATQEe18)
 <br /><br />
 # Featured Works
 
