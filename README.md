@@ -1,6 +1,6 @@
 # Contact
-![3721672-instagram_108066](https://user-images.githubusercontent.com/76924597/154782212-d2cd51f3-e9fb-49c4-9473-03cf62258a3d.png)
-[Instagram](https://www.instagram.com/bilalyalcink/)
+<!--![3721672-instagram_108066](https://user-images.githubusercontent.com/76924597/154782212-d2cd51f3-e9fb-49c4-9473-03cf62258a3d.png)
+[Instagram](https://www.instagram.com/bilalyalcink/)-->
 
 
 ![linkedin_socialnetwork_17441](https://user-images.githubusercontent.com/76924597/154782386-eb759090-af59-44c9-990c-e23ad3129eac.png)
