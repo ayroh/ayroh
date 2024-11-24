@@ -11,7 +11,7 @@ bilal.y.k@hotmail.com
 
 Download APKs: [Google Drive](https://drive.google.com/drive/folders/1gt929S-dGiFW6MBxv4m8KOZ0hI-i3WJT?usp=drive_link)
 
-Word Scrapper and Blue Blast: [Google Play](https://play.google.com/store/apps/dev?id=7664377097964883174)
+<!--Word Scrapper and Blue Blast: [Google Play](https://play.google.com/store/apps/dev?id=7664377097964883174)-->
 
 <br /><br />
 
