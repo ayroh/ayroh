@@ -54,7 +54,8 @@ Full Video: [Youtube Link](https://www.youtube.com/watch?v=WyByATQEe18)
 # Featured Works
 
 
-&emsp;&emsp;[Word Scrapper](https://github.com/ayroh/Word-Scrapper) - [Google Play](https://play.google.com/store/apps/details?id=com.MoteInTheEye.WordScrapper)
+&emsp;&emsp;[Word Scrapper](https://github.com/ayroh/Word-Scrapper) - [Google Drive](https://drive.google.com/drive/folders/1gt929S-dGiFW6MBxv4m8KOZ0hI-i3WJT?usp=drive_link) 
+<!--[Google Play](https://play.google.com/store/apps/details?id=com.MoteInTheEye.WordScrapper)-->
 
     Word Scrapper - Word Puzzle Game
     Firebase - Word and Description Database
@@ -70,7 +71,8 @@ Full Video: [Youtube Link](https://www.youtube.com/watch?v=WyByATQEe18)
 
 <br /><br />
 
-&emsp;&emsp;[Blue Blast](https://github.com/ayroh/BlueBlast) - [Google Play](https://play.google.com/store/apps/details?id=com.AyrohGames.BlueBlast)
+&emsp;&emsp;[Blue Blast](https://github.com/ayroh/BlueBlast) - [Google Drive](https://drive.google.com/drive/folders/1gt929S-dGiFW6MBxv4m8KOZ0hI-i3WJT?usp=drive_link)
+<!--[Google Play](https://play.google.com/store/apps/details?id=com.AyrohGames.BlueBlast)-->
 
     Blue Blast - Match 2 Puzzle Game
     Unity Ads Initialized
