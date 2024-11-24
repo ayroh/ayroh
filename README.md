@@ -24,6 +24,8 @@ Word Scrapper and Blue Blast: [Google Play](https://play.google.com/store/apps/d
       <a href="https://github.com/ayroh/Tycoon">Idle Tycoon Game</a><br><br>
       Guide Algorithm         +<br>
       Visitor Algorithm       +<br>
+      Pathfinder Algorithm    +<br>
+      Abstract Pool Manager   +<br>
       Camera Movement         +<br>
       Exhibition Algorithm    +<br>
       Exhibition Cost Math    +<br>
