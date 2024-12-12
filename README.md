@@ -19,7 +19,7 @@ Download APKs: [Google Drive](https://drive.google.com/drive/folders/1gt929S-dGi
 
 <table style="border: none;">
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/a43965e6-bad6-4757-963c-c15df7783ef7" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/a870463e-f46a-457e-9e91-fcbda8e6ebdb" width="300"></td>
     <td style="border: none; text-align: right;">
       <a href="https://github.com/ayroh/Tycoon">Idle Tycoon Game</a><br><br>
       Guide Algorithm         +<br>
